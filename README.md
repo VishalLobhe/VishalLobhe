@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Statistician pursuing Masters degree in statitics. With subject experetise, I am also working on Data Science and Machine learning. I have been working on both  
 <!--
 **VishalLobhe/VishalLobhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
