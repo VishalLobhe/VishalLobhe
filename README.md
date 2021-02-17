@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am a Statistician pursuing Masters degree in statitics. With subject experetise, I am also working on Data Science and Machine learning. I have been working on both  
+I am a Statistician pursuing Masters degree in statitics. With subject experetise, I am also working on Data Science and Machine learning. I have been working on Python and R programming and have worked on modules like Advanced Time series analysis, Regression Analysis, Classification, Clustering techniques and Text Analytics.
+
+- 📫 How to reach me: https://www.linkedin.com/in/vishal-lobhe/
+- ⚡ Fun fact: An intelligent man need not be Business tycoon, CEO, Data Scientist, etc. he just need to be intelligent. 
 <!--
 **VishalLobhe/VishalLobhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
